@@ -1,4 +1,4 @@
-# patika-projects
+# patika insertion sort projects
 [22,27,16,2,18,6] 
 [2,27,16,22,18,6] : n
 [2,6,16,22,18,27] : n-1
